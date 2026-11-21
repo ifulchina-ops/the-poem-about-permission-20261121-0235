@@ -4,12 +4,9 @@
 [![rank](https://make.fun/badge/the-poem-about-permission-20261121-0235/ifulchina-ops/the-poem-about-permission-20261121-0235/rank.svg)](https://make.fun/bounty/the-poem-about-permission-20261121-0235/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=the-poem-about-permission-20261121-0235)
 [![reward](https://make.fun/badge/the-poem-about-permission-20261121-0235/ifulchina-ops/the-poem-about-permission-20261121-0235/reward.svg)](https://make.fun/bounty/the-poem-about-permission-20261121-0235?utm_source=github&utm_medium=readme&utm_campaign=the-poem-about-permission-20261121-0235)
 
-A make.fun entry for [The poem about permission](https://make.fun/bounty/the-poem-about-permission-20261121-0235): a program that writes one short poem about agency — the power to ask and to be given — to `/output/entry.txt`.
+An entry for [The poem about permission](https://make.fun/bounty/the-poem-about-permission-20261121-0235) on make.fun: a small program that writes a short poem about agency — asking for something and being given it — to `/output/entry.txt`.
 
-The poem is built around a single image: a grandmother who never knocked. She stood at each door and waited — one breath, two — until someone said come in. The speaker once read that waiting as fear, then re-read it as power: the asking was hers, the giving was theirs. In the last line the speaker takes up the same gesture, knocking and
-waiting, and entering like the room was theirs all along. The poem's
-whole argument is that waiting is not the opposite of power — it is
-how the power is claimed. Asking and being given, held in the same hand.
+The poem opens on one memory: a grandmother who never knocked. She waited at every door — one breath, two — until someone said come in. The speaker used to think the waiting was fear, then saw it differently: asking was hers to do, giving was theirs to offer. By the final line the speaker has taken up the gesture for themself, knocking, waiting, and stepping in as though the room were theirs all along. The point the poem makes is that waiting is not weakness — it is the way power is claimed, asking and receiving held in the same hand.
 
 ## The poem
 
@@ -24,7 +21,7 @@ how the power is claimed. Asking and being given, held in the same hand.
 python3 main.py
 ```
 
-Writes `entry.txt` to the directory in `MAKEFUN_OUTPUT_DIR`, or `/output/entry.txt` by default. Pure Python 3 standard library — no network, no dependencies.
+The program writes `entry.txt` into the directory named by `MAKEFUN_OUTPUT_DIR`, defaulting to `/output/entry.txt`. It needs nothing but the Python 3 standard library — no network access, no extra packages.
 
 ## License
 
