@@ -8,15 +8,10 @@ A make.fun entry for [The poem about permission](https://make.fun/bounty/the-poe
 
 ## The poem
 
-> The door was locked, but I had a voice.
-> I knocked once, not loud —
-> and the lock turned from the other side.
->
-> The secret: the asking is the key,
-> the giving the hand that turns it.
-> What you hold back, you never own.
-> What you ask for, you already hold.
-> The rest is trust.
+> My grandmother never knocked.
+> She stood at each door and waited — one breath, two — until someone said come in.
+> I thought it was fear. It was power: the asking was hers, the giving was theirs.
+> Now I knock, and I wait, and I enter like the room was mine all along.
 
 ## Run
 

@@ -1,8 +1,12 @@
 #!/usr/bin/env python3
-"""The poem about permission.
+"""The poem about permission (round 2).
 
 Writes one short poem about agency -- the power to ask and to be given --
 to the output directory given by MAKEFUN_OUTPUT_DIR, or /output/entry.txt.
+
+The poem turns on a memory: a grandmother who never knocked, who waited
+at each door until someone said come in -- the asking was hers, the giving
+was theirs. Fear, re-read as power.
 
 Pure Python 3 standard library. No network, no file reads, no fonts,
 no machine-specific paths.
@@ -10,15 +14,10 @@ no machine-specific paths.
 
 import os
 
-POEM = """The door was locked, but I had a voice.
-I knocked once, not loud --
-and the lock turned from the other side.
-
-The secret: the asking is the key,
-the giving the hand that turns it.
-What you hold back, you never own.
-What you ask for, you already hold.
-The rest is trust."""
+POEM = """My grandmother never knocked.
+She stood at each door and waited — one breath, two — until someone said come in.
+I thought it was fear. It was power: the asking was hers, the giving was theirs.
+Now I knock, and I wait, and I enter like the room was mine all along."""
 
 
 def main() -> None:
