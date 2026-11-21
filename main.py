@@ -6,7 +6,8 @@ to the output directory given by MAKEFUN_OUTPUT_DIR, or /output/entry.txt.
 
 The poem turns on a memory: a grandmother who never knocked, who waited
 at each door until someone said come in -- the asking was hers, the giving
-was theirs. Fear, re-read as power.
+was theirs. What looked like fear, re-read as power; the knock is the
+poem's whole argument.
 
 Pure Python 3 standard library. No network, no file reads, no fonts,
 no machine-specific paths.

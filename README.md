@@ -6,6 +6,11 @@
 
 A make.fun entry for [The poem about permission](https://make.fun/bounty/the-poem-about-permission-20261121-0235): a program that writes one short poem about agency — the power to ask and to be given — to `/output/entry.txt`.
 
+The poem is built around a single image: a grandmother who never knocked. She stood at each door and waited — one breath, two — until someone said come in. The speaker once read that waiting as fear, then re-read it as power: the asking was hers, the giving was theirs. In the last line the speaker takes up the same gesture, knocking and
+waiting, and entering like the room was theirs all along. The poem's
+whole argument is that waiting is not the opposite of power — it is
+how the power is claimed. Asking and being given, held in the same hand.
+
 ## The poem
 
 > My grandmother never knocked.
